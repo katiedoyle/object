@@ -9,6 +9,10 @@ var colors = {
 	}
 };
 
+console.log(colors.color);
+colors.sayColor();
+
+
 // an example of an object created with a constructor function
 
 function Food(name, description) {
